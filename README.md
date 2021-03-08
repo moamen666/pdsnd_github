@@ -9,6 +9,7 @@ bikeshare
 ### Description
 analyzes bike renting data for 3 cities in USA
 adding change 1
+adding change 2
 ### Files used
 bikeshare.py
 chicago.csv
